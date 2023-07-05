@@ -8,3 +8,4 @@ public:
   virtual void update(size_t windSpeed) = 0;
 };
 
+//Hamada
